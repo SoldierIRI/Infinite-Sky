@@ -3,6 +3,6 @@ Infinite Sky | آسمان بیکران
 
 فایل اصلی: index.html
 مقاله اول: article-su75.html
-لوگو: assets/logo.jpg
+لوگو: دارایی/images.jpg
 
 برای انتشار، کل پوشه را روی یک سرویس میزبانی سایت استاتیک آپلود کنید.
